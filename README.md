@@ -1,8 +1,13 @@
+<h1 align="center">🔐 Cyber Security Notes</h1>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/CyberSecurity-Learning-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Tools-Kali%20Linux-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Focus-Web%20Security-red?style=for-the-badge" />
+  My personal cybersecurity learning journey, tools, and practical labs.
 </p>
+
+<p align="center">
+  🇬🇧 <a href="./README.en.md">English</a> | 🇹🇷 <a href="./README.tr.md">Türkçe</a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -12,38 +17,19 @@
 
 ---
 
-## 📂 Repository Content
-
-### 🔍 Nmap
-- Basic scanning
-- Service detection
-- OS detection
-
-### 🌐 Burp Suite
-- Proxy usage
-- Intercepting requests
-- Basic manipulation
-
-### 💉 Web Vulnerabilities
-- SQL Injection
-- XSS (Cross-Site Scripting)
-- IDOR / BOLA
+## 📂 Content
+This repository includes:
+- 📖 Cybersecurity notes
+- 🧪 Practical labs
+- 🛠️ Basic tools and scripts
+- 🔍 Vulnerability testing examples
 
 ---
 
-## 🧪 Labs
-- DVWA testing
-- Manual vulnerability testing
-- API security basics
-
----
-
-## 🚀 Goals
-- Improve penetration testing skills
-- Build custom security tools
-- Document real-world scenarios
+## 🚀 Goal
+To improve my penetration testing skills and build a strong cybersecurity portfolio.
 
 ---
 
 ## ⚠️ Disclaimer
-This repository is created for educational purposes only.
+This repository is for educational purposes only.
